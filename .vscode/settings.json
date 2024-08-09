@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e1c08a2e-53b9-46c4-8f97-8205b8e6b922/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/YasmimRodrigues",
+    "appService.deploySubpath": ".",
+    "liveServer.settings.port": 5501
+}
